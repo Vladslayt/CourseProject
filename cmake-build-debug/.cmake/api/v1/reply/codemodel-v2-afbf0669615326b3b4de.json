@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Kursach_DA",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Kursach_DA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kursach_DA-Debug-76ae493bfdb472b74b76.json",
+					"name" : "Kursach_DA",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Vlad/Desktop/\u043a\u0443\u0440\u0441\u043e\u0432\u0430\u044f/Kursach_1234/Kursach_123/Kursach_DA/Kursach_DA/cmake-build-debug",
+		"source" : "C:/Users/Vlad/Desktop/\u043a\u0443\u0440\u0441\u043e\u0432\u0430\u044f/Kursach_1234/Kursach_123/Kursach_DA/Kursach_DA"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
